@@ -1,0 +1,9 @@
+# Dynamic Diagram Flow (React Flow Project)
+
+This project dynamically renders diagrams based on **metadata JSON** using **React Flow**.  
+Users can **add, edit, and remove** nodes and edges interactively through a sidebar form.
+
+- Dynamic node & edge rendering from JSON
+- Add / Edit / Delete nodes and edges
+- React Context for state management
+- Responsive and interactive layout
